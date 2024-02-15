@@ -1,14 +1,15 @@
 body{
     text-align: center;
     margin-top: 100px;
-    background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
-            linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
-            linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
-    background-repeat: no-repeat;
+    background: linear-gradient(217deg, rgba(225, 90, 90, 0.8), rgba(255,0,0,0) 70.71%),
+            linear-gradient(127deg, rgba(86, 234, 86, 0.8), rgba(0,255,0,0) 70.71%),
+            linear-gradient(336deg, rgba(110, 110, 237, 0.8), rgba(0,0,255,0) 70.71%);
+    background-repeat:no-repeat;
     background-attachment: fixed;
-    height: 5px;
+    
+    height: 15px;
 }
 h1{
-    color: black;
+    color: rgb(0, 0, 5);
     margin-bottom: 60px;
 }
